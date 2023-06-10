@@ -1,1 +1,1 @@
-# RandomSentencesGenerator
+# RandomWriter
